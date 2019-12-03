@@ -42,8 +42,6 @@ def Day2(file):
                 print("Part 2 positions are {0} and {1}.".format(pos1, pos2))
                 print("Part 2 result is {0}.".format(100* pos1 + pos2))
     
-    #print("Part 1 is {0}".format(inputL))
-    #print("Part 2 is {0}".format())
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
