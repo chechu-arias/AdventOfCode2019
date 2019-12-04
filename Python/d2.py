@@ -45,7 +45,7 @@ def Day2(file):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python3 d1.py inputpath")
+        print("Usage: python3 d2.py inputpath")
     else:
         file = sys.argv[1]
         startTime = time.time()

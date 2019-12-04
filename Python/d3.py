@@ -102,7 +102,7 @@ def Day3(file, part):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python3 d1.py inputpath {1|2}")
+        print("Usage: python3 d3.py inputpath {1|2}")
     else:
         file = sys.argv[1]
         part = int(sys.argv[2])
